@@ -1,0 +1,7 @@
+EDF Schedular Project:
+----------------------
+1. All 6 tasks simulated.
+
+2. CPU load re-calculated.
+
+3. System schedulability is checked using URM and time demand analysis.
