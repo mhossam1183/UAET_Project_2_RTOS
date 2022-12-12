@@ -1,0 +1,5 @@
+EDF Schedular Project:
+----------------------
+1. All 6 tasks represented in a single simulation.
+
+2. time demand analysis is repeated (all 6 tasks are indeed schedulable).
